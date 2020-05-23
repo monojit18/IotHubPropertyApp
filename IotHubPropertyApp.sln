@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IotHubPropertyApp", "IotHubPropertyApp\IotHubPropertyApp.csproj", "{8CACF207-5BD1-439A-BE67-E0243F2838A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CACF207-5BD1-439A-BE67-E0243F2838A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CACF207-5BD1-439A-BE67-E0243F2838A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CACF207-5BD1-439A-BE67-E0243F2838A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CACF207-5BD1-439A-BE67-E0243F2838A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
